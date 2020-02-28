@@ -6,10 +6,10 @@ Recognize faces with Python and OpenCV.
 
 # Requirements:
 
-Python 3
-OpenCV 
-Matplotlib
+    Python 3
+    OpenCV 
+    Matplotlib
 
 # Libs:
 
-pip install --upgrade opencv-python
+    pip install --upgrade opencv-python
